@@ -1,0 +1,21 @@
+body {
+	font-family: Helvetica;
+}
+
+#logo {
+	height: 50px;
+	width: 150px;
+}
+
+#header {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+	height: 80vh;
+}
+
+#date {
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
